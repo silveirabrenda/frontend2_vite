@@ -1,5 +1,7 @@
 import './style.css'
 import "./acessibilidade.js"
+import "./contato.js"
+import "./simulador.js"
 
 
 document.querySelector('#app').innerHTML = `
